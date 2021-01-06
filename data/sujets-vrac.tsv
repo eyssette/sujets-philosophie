@@ -551,7 +551,7 @@ Apprendre à parler
 Apprendre à penser
 Apprendre à philosopher
 Apprendre à vivre
-Apprendre à vivre, est-ce appendre à désirer ?
+Apprendre à vivre, est-ce apprendre à désirer ?
 Apprendre à voir
 Apprendre et enseigner
 Apprendre s'apprend-il ?
@@ -3003,6 +3003,7 @@ Faut-il opposer l'histoire et la fiction ?
 Faut-il opposer la durée vécue et le temps des choses ?
 Faut-il opposer la matière et l'esprit ?
 Faut-il opposer la théorie et la pratique ?
+Faut-il opposer la vie à la culture ?
 Faut-il opposer la vision de la Nature que nous apporte la science et celle que nous apporte l'art ?
 Faut-il opposer le don et l'échange ?
 Faut-il opposer le rêve à la réalité ?
@@ -4078,7 +4079,7 @@ L'élection
 L'élégance
 L'élémentaire
 L'éloge de la démesure
-L'éloge n'est-il que pure cerémonie ?
+L'éloge n'est-il que pure cérémonie ?
 L'émancipation
 L'émancipation des femmes
 L'embarras du choix
@@ -4909,7 +4910,6 @@ L'idéaliste
 L'idéalité
 L'idée d'anthropologie
 L'idée d'égalité a-t-elle été inventée précisément parce que les êtres humains ne sont pas identiques ?
-L'idée d'égalité a-t-elle été inventée précisément parce que les êtres humainsne sont pas identiques ?
 L'idée d'encyclopédie
 L'idée d'éternité
 L'idée d'Europe
@@ -4932,6 +4932,7 @@ L'idée d'une volonté générale ne procède-t-elle que d'une illusion ?
 L'idée d'univers
 L'idée d'université
 L'idée de « sciences exactes »
+L'idée de <em>mathesis universalis</em>
 L'idée de beaux arts
 L'idée de bonheur
 L'idée de bonheur collectif a-t-elle un sens ?
@@ -4964,7 +4965,6 @@ L'idée de loi de la nature
 L'idée de loi logique
 L'idée de loi naturelle
 L'idée de mal nécessaire
-L'idée de mathesis universalis
 L'idée de métier
 L'idée de modernité
 L'idée de monde
@@ -5020,7 +5020,6 @@ L'illusion
 L'illusion de la liberté
 L'illusion du naturel
 L'illusion est-elle la force ou la faiblesse de la passion ?
-L'illusion s'opoose-t-elle à la réalité ?
 L'illusion s'oppose-t-elle à la réalité ?
 L'illustration
 L'image
@@ -5175,7 +5174,7 @@ L'individu doit-il se méfier de l'État ?
 L'individu et l'espèce
 L'individu et la multitude
 L'individu et le groupe
-L'individu face à L'État
+L'individu face à l'État
 L'individu se réalise-t-il grâce à l'État ou contre lui ?
 L'individualisme
 L'individualisme a-t-il sa place en politique ?
@@ -5365,6 +5364,7 @@ L'invention
 L'invention de soi
 L'invention et la découverte
 L'invention technique
+L'invention technique relève-t-elle de la raison ?
 L'invention technique relève-t-elle de la raison ou de l'imagination ?
 L'invérifiable
 L'invisibilité
@@ -5390,12 +5390,9 @@ L'irrésolution
 L'irrésolution est-elle le pire des maux ?
 L'irresponsabilité
 L'irréversibilité
-L'irréversibilité du temps en thermodynamique. Le principe d'entropie
-L'irréversibilité du temps en thermodynamique. Le principe d'entropie La question du mouvement
 L'irréversible
 L'irrévocable
 L'ivresse
-L'nconscient est-il psychique ?
 L'obéissance
 L'obéissance à l'autorité
 L'obéissance à l'État est-elle toujours une obligation ?
@@ -5665,7 +5662,7 @@ L'utopie en politique
 L'utopie et l'idéologie
 L'utopie n'est-elle qu'un rêve inutile ?
 L'utopie n'est-elle que l'envers de l'histoire ?
-La « Raison d'État » : peut-on tout justifier en son nom ?
+La « raison d'État » : peut-on tout justifier en son nom ?
 La balance est-elle le symbole adéquat de la justice ?
 La banalité
 La barbarie
@@ -5777,7 +5774,7 @@ La classification des arts
 La classification des sciences
 La clause de conscience
 La clémence
-La cœxistence des libertés
+La coexistence des libertés
 La cohérence
 La cohérence d'un discours est-elle le critère de sa vérité ?
 La cohérence d'une pensée suffit-elle à garantir sa vérité ?
@@ -6132,7 +6129,7 @@ La culture nous unit-elle ?
 La culture permet-elle d'échapper à la barbarie ?
 La culture peut-elle être instituée ?
 La culture peut-elle être objet de science ?
-La culture ramenée à la nature : la sociobiologie Les comportements culturels ont-ils une explication naturelle ?
+La culture ramenée à la nature : la sociobiologie
 La culture remplace-t-elle la nature ?
 La culture rend-elle les êtres humains meilleurs ?
 La culture rend-elle libre ?
@@ -6173,8 +6170,7 @@ La démagogie
 La démarche de la raison exclut-elle tout recours à la foi ?
 La démarche déductive
 La démarche expérimentale est-elle une démonstration ?
-La démarche inductive La logique est-elle une science ?
-La démarche inductive La perception est-elle déjà une science ?
+La démarche inductive
 La démarche scientifique exclut-elle tout recours à l'imagination ?
 La démence
 La démesure
@@ -6375,7 +6371,7 @@ La fin et les moyens
 La fin justifie-t-elle les moyens ?
 La finalité
 La finalité des sciences humaines
-La finalité en biologie La science est-elle nécessairement réductionniste ?
+La finalité en biologie
 La finalité est-elle nécessaire pour penser le vivant ?
 La finitude
 La foi
@@ -6596,7 +6592,7 @@ La liberté d'expression est-elle nécessaire à la liberté de pensée ?
 La liberté d'expression est-elle nécessaire à la liberté de penser ?
 La liberté d'expression peut-elle être illimitée ?
 La liberté d'indifférence
-La liberté d'indifférence et cas de l'âne de Buridan
+La liberté d'indifférence et le cas de l'âne de Buridan
 La liberté d'opinion
 La liberté de chacun a-t-elle pour condition la liberté de tous ?
 La liberté de chacun est-elle compatible avec le respect de l'intérêt général ?
@@ -6755,7 +6751,6 @@ La magie
 La magie des mots
 La magie peut-elle être efficace ?
 La magnanimité
-La maiére n'est elle pour l'être humain qu'un obstacle ?
 La main
 La main et l'esprit
 La main et l'outil
@@ -6767,7 +6762,7 @@ La maîtrise de soi
 La maîtrise de soi dépend-elle de la connaissance de soi ?
 La maîtrise du feu
 La maîtrise du temps
-La maitrise technique du vivant n'est-elle pas la preuve de la valeur des connaissances scientifiques sur lesquelles elle est adossée ?
+La maîtrise technique du vivant n'est-elle pas la preuve de la valeur des connaissances scientifiques sur lesquelles elle est adossée ?
 La maîtrise technique suffit-elle à définir l'artiste ?
 La majesté
 La majorité
@@ -6792,13 +6787,13 @@ La matière
 La matière de l'œuvre
 La matière de la pensée
 La matière est-elle amorphe ?
-La matière est-elle plus facile à connaitre que l'esprit ?
 La matière est-elle plus facile à connaître que l'esprit ?
 La matière est-elle un obstacle à l'expression de l'esprit ?
 La matière est-elle une vue de l'esprit ?
 La matière et l'esprit
 La matière et la forme
 La matière et la vie
+La matière n'est elle pour l'être humain qu'un obstacle ?
 La matière n'est-elle qu'un obstacle ?
 La matière n'est-elle qu'une idée ?
 La matière n'est-elle que ce que l'on perçoit ?
@@ -7175,7 +7170,6 @@ La passion est-elle une aliénation ?
 La passion est-elle une erreur ?
 La passion est-elle une excuse ?
 La passion est-elle une forme de dépendance ?
-La passion est-elle, comme le dit Kant, « une maladie de l'âme »
 La passion est-elle, comme le dit Kant, « une maladie de l'âme » ?
 La passion exclut-elle la lucidité ?
 La passion fait-elle toujours obstacle à la connaissance de soi ?
@@ -7271,7 +7265,7 @@ La peur des machines
 La peur des mots
 La peur du châtiment
 La peur du désordre
-La phénoménologie husserlienne : Conscience et attention
+La phénoménologie husserlienne : conscience et attention
 La philanthropie
 La philosophie a-t-elle encore sa place dans notre monde ?
 La philosophie a-t-elle un objet propre ?
@@ -7553,7 +7547,7 @@ La raison entre-t-elle nécessairement en conflit avec la croyance religieuse ?
 La raison entre-t-elle nécessairement en conflit avec la religion ?
 La raison épuise-t-elle le réel ?
 La raison est elle naturellement logique ?
-La raison est elle suscceptible d'éliminer la raison ?
+La raison est elle susceptible d'éliminer la raison ?
 La raison est-elle en droit de discuter la croyance ?
 La raison est-elle génératrice de violence ?
 La raison est-elle l'esclave des passions ?
@@ -7610,7 +7604,7 @@ La raison s'oppose-t-elle à toute forme de croyance ?
 La raison s'oppose-t-elle aux passions ?
 La raison s'oppose-t-elle nécessairement au désir ?
 La raison s'oppose-t-elle toujours au préjugé ?
-La raison sans les passions est-elle un roi sans sujets. Où faut-il chercher l'origine de la passion ?
+La raison sans les passions est-elle un roi sans sujets ?
 La raison se reconnaît-elle dans la technique ?
 La raison suffisante
 La raison suffit-elle à connaître le réel ?
@@ -7625,7 +7619,6 @@ La rationalité du marché
 La rationalité en sciences sociales
 La rationalité politique
 La rationalité scientifique satisfait-elle tous les besoins de la raison ?
-La rationnalité scientifique satisfait-elle tous les besoins de la raison ?
 La réaction
 La réaction en politique
 La réalité
@@ -7840,7 +7833,7 @@ La rhétorique a-t-elle une valeur ?
 La rhétorique est-elle l'art de tromper ?
 La rhétorique est-elle un art ?
 La richesse
-La richesse de la nature La science nous offre-t-elle une image objective de la nature ?
+La richesse de la nature
 La richesse du sensible
 La richesse intérieure
 La rigueur
@@ -7907,6 +7900,7 @@ La science est-elle en mesure de dicter des conclusions morales ?
 La science est-elle incompatible avec la religion ?
 La science est-elle indépendante de toute métaphysique ?
 La science est-elle le lieu de la vérité ?
+La science est-elle nécessairement réductionniste ?
 La science est-elle rationnelle ?
 La science est-elle un discours sans illusion ?
 La science est-elle un jeu ?
@@ -7930,6 +7924,7 @@ La science nous éloigne-t-elle de la religion ?
 La science nous éloigne-t-elle des choses ?
 La science nous indique-t-elle ce que nous devons faire ?
 La science nous livre-t-elle le réel tel qu'il est ?
+La science nous offre-t-elle une image objective de la nature ?
 La science nous rend-elle plus capables d'être libres ?
 La science passe-t-elle du plan du phénomène au plan du modèle ?
 La science pense-t-elle ?
@@ -8002,7 +7997,6 @@ La simulation
 La sincérité
 La singularité
 La singularité des événements historiques s'oppose-t-elle à leur explication ?
-La singularité Faut-il opposer la vie à la culture ?
 La situation
 La sobriété
 La sociabilité
@@ -8184,7 +8178,6 @@ La terreur morale
 La théogonie
 La théologie rationnelle
 La théorie
-La théorie de la filière inversée selon John K. Galbraith
 La théorie et l'expérience
 La théorie et la pratique
 La théorie néglige-t-elle l'expérience ?
@@ -8931,7 +8924,6 @@ Le développement technique transforme-t-il les êtres humains ?
 Le développement technique transforme-t-il réellement l'être humain ?
 Le devenir
 Le devenir historique n'est-il qu'irrationalité ?
-Le devenir historique n'est-il qu'irrationnalité ?
 Le devoir
 Le devoir d'aimer
 Le devoir d'obéissance
@@ -9005,7 +8997,7 @@ Le droit à la révolte
 Le droit a-t-il pour fin d'abolir la violence ?
 Le droit a-t-il pour fin de protéger le faible ?
 Le droit a-t-il pour seul but de pacifier les relations humaines ?
-Le droit au Bonheur
+Le droit au bonheur
 Le droit au respect de la vie privée
 Le droit au travail
 Le droit d'auteur
@@ -9062,7 +9054,6 @@ Le droit n'est-il qu'un fait ?
 Le droit n'est-il qu'une justice par défaut ?
 Le droit n'est-il que l'expression d'une culture particulière ?
 Le droit n'est-il que l'expression des rapports de force ?
-Le droit n'est-il que l'expression des rappports de force ?
 Le droit naturel
 Le droit ne fait-il que traduire un rapport de forces ?
 Le droit nous dit-il ce qu'il est juste de faire ?
@@ -9646,7 +9637,7 @@ Le pouvoir peut-il limiter le pouvoir ?
 Le pouvoir peut-il se déléguer ?
 Le pouvoir peut-il se passer de sa mise en scène ?
 Le pouvoir politique a-t-il pour fonction d'assurer l'ordre ?
-Le pouvoir politique est-il nécessairement cœrcitif ?
+Le pouvoir politique est-il nécessairement coercitif ?
 Le pouvoir politique est-il nécessairement violent ?
 Le pouvoir politique peut-il appartenir à ceux qui sont gouvernés ?
 Le pouvoir politique peut-il échapper à l'arbitraire ?
@@ -9672,6 +9663,7 @@ Le prince
 Le principe
 Le principe d'égalité
 Le principe d'égalité exige-t-il d'abolir toutes les différences existant entre les êtres humains ?
+Le principe d'entropie
 Le principe d'identité
 Le principe de causalité
 Le principe de contradiction
@@ -9807,7 +9799,6 @@ Le réel se limite-t-il à ce que nous percevons ?
 Le réel se limite-t-il à ce que perçoivent nos sens ?
 Le réel se réduit-il à ce que l'on en perçoit ?
 Le réel se réduit-il à ce que l'on perçoit ?
-Le réel se réduit-il à ce que l'on perçoit ?
 Le réel se réduit-il à l'objectivité ?
 Le refoulement
 Le refus
@@ -9863,13 +9854,12 @@ Le risque de la liberté
 Le risque technique
 Le rite
 Le rituel
-Le rôle de l'éducation La prohibition de l'inceste
+Le rôle de l'éducation
 Le rôle de l'État est-il de définir le bien commun ?
 Le rôle de l'État est-il de faire régner la justice ?
 Le rôle de l'État est-il de préserver la liberté de l'individu ?
-Le rôle de l'histoirien est-il de juger ?
 Le rôle de l'historien est-il de juger ?
-Le rôle de la main L'invention technique relève-t-elle de la raison ?
+Le rôle de la main
 Le rôle de la philosophie est-il de nous faire oublier la mort ?
 Le rôle de la théorie dans l'expérience scientifique
 Le rôle des institutions
@@ -10352,6 +10342,7 @@ Les classes sociales
 Les coïncidences ont-elles des causes ?
 Les commandements divins
 Les commencements
+Les comportements culturels ont-ils une explication naturelle ?
 Les concepts d'espace, de temps, de mouvement
 Les concepts de force et de matière
 Les concepts de l'historien sont-ils eux-mêmes historiques ?
@@ -10532,7 +10523,6 @@ Les frontières
 Les frontières de l'art
 Les fruits du travail
 Les générations
-Les genres de Dieu
 Les genres de vie
 Les genres esthétiques
 Les genres naturels
@@ -11039,7 +11029,6 @@ Logique et ontologie
 Logique et psychologie
 Logique et réalité
 Logique et vérité
-Logique et vérité La cohérence est-elle un critère de la vérité ?
 Logique générale et logique transcendantale
 Loi morale et loi politique
 Loi naturelle et loi politique
@@ -11309,7 +11298,6 @@ Nécessité fait loi
 Négation et privation
 Névroses et psychoses
 Ni Dieu ni maître
-Ni Dieu, ni maître
 Ni le soleil ni la mort ne se peuvent regarder en face
 Ni regrets, ni remords
 Nier l'évidence
@@ -11403,7 +11391,6 @@ On oppose souvent les actes aux paroles :, est-ce légitime ?
 On oppose souvent les actes et les paroles. Cette opposition vous paraît-elle pertinente ?
 On parle de sciences de l'être humain : pourquoi l'être humain est-il l'objet de plusieurs sciences ?
 On parle de sciences humaines : pourquoi l'homme est-il l'objet de plusieurs sciences ?
-On parle des « droits de l'être humain ». Cette notion a-t-elle un fondement philosophique ?
 On parle des « droits de l'homme ». Cette notion a-t-elle un fondement philosophique ?
 Opinion et ignorance
 Opinion, croyance, jugement
@@ -11483,7 +11470,6 @@ Passions et intérêts
 Passions, intérêt, raison
 Passons-nous notre vie à la perdre ?
 Pâtir
-Paul Valéry écrit à propos de l'Histoire qu'elle « justifie ce que l'on veut. Elle n'enseigne rigoureusement rien car elle contient tout et donne des exemples de tout. » Qu'en pensez-vous ?
 Paul Valéry écrit à propos de l'Histoire qu'elle « justifie ce que l'on veut. Elle n'enseigne rigoureusement rien car elle contient tout et donne des exemples de tout. » Que pensez-vous de ce point de vue critique ?
 Peindre
 Peindre d'après nature
@@ -11630,7 +11616,6 @@ Peut-il y avoir un intérêt collectif ?
 Peut-il y avoir un jugement de l'Histoire ?
 Peut-il y avoir un langage universel ?
 Peut-il y avoir un mauvais usage de la raison ?
-Peut-il y avoir un mauvais usage de la raison Peut-on avoir des idées sans qu'on puisse les Peut-on être seul à avoir raison ?
 Peut-il y avoir une certitude de l'erreur ?
 Peut-il y avoir une histoire universelle ?
 Peut-il y avoir une justice en dehors du droit ?
@@ -11681,7 +11666,6 @@ Peut-on aimer faire le mal ?
 Peut-on aimer l'autre tel qu'il est ?
 Peut-on aimer l'humanité ?
 Peut-on aimer la vérité ?
-Peut-on aimer la vérité sans la connaitre ?
 Peut-on aimer la vérité sans la connaître ?
 Peut-on aimer la vie plus que tout ?
 Peut-on aimer les animaux ?
@@ -11762,7 +11746,6 @@ Peut-on comprendre sans juger ?
 Peut-on comprendre un acte que l'on désapprouve ?
 Peut-on comprendre une œuvre d'art sans l'aimer ?
 Peut-on concevoir des droits de l'homme indépendamment des droits du citoyen ?
-Peut-on concevoir l'existence d'un sentiment religieux, si Dieu n'existe ?
 Peut-on concevoir l'existence d'un sentiment religieux, si Dieu n'existe pas ?
 Peut-on concevoir la justice sans l'État ?
 Peut-on concevoir la pensée sans la vie ?
@@ -11857,7 +11840,7 @@ Peut-on démontrer qu'on ne rêve pas ?
 Peut-on démontrer qu'une croyance est vraie ?
 Peut-on démontrer qu'une œuvre d'art est belle ?
 Peut-on démontrer tout et son contraire ?
-Peut-on demontrer une chose et son contraire ?
+Peut-on démontrer une chose et son contraire ?
 Peut-on dépasser la subjectivité ?
 Peut-on désirer autre chose que l'impossible ?
 Peut-on désirer ce qu'on ne connaît pas ?
@@ -11881,7 +11864,6 @@ Peut-on dire : « la vie n'est pas belle, les images de la vie sont belles » 
 Peut-on dire « à chacun son opinion » ?
 Peut-on dire avec Alain que : « La passion est toujours malheureuse » ?
 Peut-on dire avec Hölderlin que : « Ce qui fait de l'État un enfer, c'est que l'être humain a voulu en faire son paradis. » ?
-Peut-on dire avec Hölderlin que : « Ce qui fait de l'État un enfer, c'est que l'homme a voulu en faire son paradis. » ?
 Peut-on dire avec Nietzsche que « l'oubli est une forme et la manifestation d'une santé robuste » ?
 Peut-on dire ce que l'on pense ?
 Peut-on dire ce qui n'est pas ?
@@ -12597,7 +12579,6 @@ Peut-on souhaiter le gouvernement des meilleurs ?
 Peut-on soumettre la réalité humaine au calcul ?
 Peut-on soutenir : « À chacun sa vérité » ?
 Peut-on soutenir que la vérité n'existe pas ?
-Peut-on subordonner les Droits de l'être humain à la raison d'État ?
 Peut-on subordonner les Droits de l'homme à la raison d'État ?
 Peut-on suivre une règle ?
 Peut-on suspendre le temps ?
@@ -12730,7 +12711,6 @@ Pluralité et unité
 Plusieurs religions valent-elles mieux qu'une seule ?
 Poésie et philosophie
 Poésie et vérité
-Poésie et vérité Beauté et vérité Y a-t-il du vrai dans le beau ?
 Poétique et prosaïque
 Point de vue du créateur et point de vue du spectateur
 Police et politique
@@ -12973,7 +12953,7 @@ Pourquoi la justice a-t-elle besoin d'institutions ?
 Pourquoi la musique intéresse-t-elle le philosophe ?
 Pourquoi la nature obéirait-elle à des lois ?
 Pourquoi la philosophie juge-t-elle primordiale de réfléchir sur le langage ?
-Pourquoi la philosophie pose-t-elle la question : « Qu'est-ce que l'homme ?
+Pourquoi la philosophie pose-t-elle la question : « Qu'est-ce que l'homme ? » ?
 Pourquoi la prison ?
 Pourquoi la prohibition de l'inceste ?
 Pourquoi la raison recourt-elle à l'hypothèse ?
@@ -13874,7 +13854,6 @@ Qu'est-ce que décider ?
 Qu'est-ce que définir ?
 Qu'est-ce que démontrer ?
 Qu'est-ce que déraisonner ?
-Qu'est-ce que Dieu pour athée ?
 Qu'est-ce que Dieu pour un athée ?
 Qu'est-ce que discuter ?
 Qu'est-ce que donner sa parole ?
@@ -14188,7 +14167,7 @@ Que dit la loi ?
 Que dit la musique ?
 Que dois-je à autrui ?
 Que dois-je à l'État ?
-Que dois-Je faire ?
+Que dois-je faire ?
 Que dois-je respecter en autrui ?
 Que doit la pensée à l'écriture ?
 Que doit la science à la technique ?
@@ -14287,15 +14266,11 @@ Que peint le peintre ?
 Que penser de celui qui cherche à connaître autrui ?
 Que penser de cette affirmation : « Plus on connaît, plus on est libre » ?
 Que penser de cette définition : « L'être humain est un être qui s'invente des dieux » ?
-Que penser de cette définition : « L'homme est un être qui s'invente des dieux » ?
-Que penser de l'adage : « Que la justice s'accomplisse, le monde dût-il périr » ?
-Que penser de l'adage : « Que la justice s'accomplisse, le monde dût-il périr » (Fiat justitia pereat mundus) ?
+Que penser de l'adage : « Que la justice s'accomplisse, le monde dût-il périr » (<em>Fiat justitia pereat mundus</em>) ?
 Que penser de l'opposition travail manuel, travail intellectuel ?
 Que penser de la formule : « il faut suivre la nature » ?
 Que pensez-vous de ce jugement concernant la philosophie : « Sa fonction est de contester, mais son destin est d'être contestée » ?
 Que pensez-vous de ce précepte : « Si tu veux la paix, prépare la guerre » ?
-Que pensez-vous de cette adage : « Que la justice s'accomplisse, le monde dût-il s'effondrer ? » (<i>Fiat Justitia pereat mundus</i>)
-Que pensez-vous de cette affirmation : « Qui pense beaucoup n'est pas apte à être être humain de parti » ?
 Que pensez-vous de cette affirmation : « Qui pense beaucoup n'est pas apte à être homme de parti » ?
 Que pensez-vous de cette affirmation d'un auteur contemporain : « Le passé n'est jamais mort. Il n'est même pas passé. » ?
 Que pensez-vous de cette affirmation d'un auteur contemporain : « Un aliéné est un homme que la société n'a pas voulu entendre et qu'elle a voulu empêcher d'émettre d'insupportables vérités » ?
@@ -14611,7 +14586,6 @@ Quelle place donner au vraisemblable ?
 Quelle place la réflexion sur le vivant peut-elle accorder au hasard ?
 Quelle politique fait-on avec les sciences humaines ?
 Quelle portée faut-il accorder à l'expression : « C'est scientifique » ?
-Quelle portée faut-il accorder à l'expression : « C'est scientifique ». L'opinion doit-elle subsister à côté de la science ?
 Quelle rationalité convient-il d'attribuer au hasard ?
 Quelle rationnalité convient-il d'attribuer au hasard ?
 Quelle réalité attribuer à la matière ?
@@ -14711,7 +14685,7 @@ Qui est sage ?
 Qui est souverain ?
 Qui fait l'histoire ?
 Qui fait la guerre ?
-Qui fait la Loi ?
+Qui fait la loi ?
 Qui gouverne ?
 Qui mérite d'être aimé ?
 Qui meurt ?
@@ -14916,8 +14890,7 @@ Savoir, est-ce pouvoir ?
 Savoir, est-ce se libérer ?
 Savoir, pouvoir
 Savons-nous ce que nous disons ?
-Savons-nous répondre à la question « Qu'est-ce que l'homme ?
-Savons-nous répondre à la question »Qu'est-ce que l'être humain ? » ?
+Savons-nous répondre à la question « Qu'est-ce que l'être humain ? » ?
 Savons-nous toujours ce que nous désirons ?
 Science du vivant et finalisme
 Science du vivant, science de l'inerte
@@ -15588,7 +15561,7 @@ Tradition et nouveauté
 Tradition et raison
 Tradition et transmission
 Tradition et vérité
-Traduction, Trahison
+Traduction, trahison
 Traduire
 Traduire et interpréter
 Traduire, est-ce trahir ?
@@ -16616,7 +16589,7 @@ Y a-t-il une vertu de l'oubli ?
 Y a-t-il une vie de l'esprit ?
 Y a-t-il une vie de l'esprit après la mort ?
 Y a-t-il une violence du droit ?
-Y a-t-il vraiment une « Raison d'État » ?
+Y a-t-il vraiment une « raison d'État » ?
 Y a-t-il, en toute rigueur, des idées fausses ?
 Y a-til un bon usage du doute ?
 Y a‑t‑il un sens à juger une œuvre d'art du point de vue moral ?
