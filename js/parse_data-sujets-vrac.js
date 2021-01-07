@@ -51,7 +51,7 @@ function handleInput(e) {
 			pattern = pattern + '(?=.*\\?$)';
 		}
 		if(case_sans_question.checked) {
-			pattern = pattern + '(?=.*(?<!\\?)$)';
+			pattern = pattern + '([A-zÀ-ÿ]|»)$';
 		}
 		regex = new RegExp(pattern, 'i');
 		table_body = "<tbody>";
