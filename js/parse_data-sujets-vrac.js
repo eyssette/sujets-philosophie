@@ -53,7 +53,6 @@ function handleInput(e) {
 		if(case_sans_question.checked) {
 			pattern = pattern + '(?=.*([A-zÀ-ÿ]|»|\\)|[0-9]|!|>)$)';
 		}
-		console.log(pattern);
 		regex = new RegExp(pattern, 'i');
 		table_body = "<tbody>";
 		rows.forEach((element) => {
