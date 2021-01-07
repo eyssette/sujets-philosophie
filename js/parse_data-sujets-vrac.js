@@ -33,8 +33,8 @@ var input = document.getElementById("recherche_dans_le_sujet")
 input.oninput = handleInput;
 var case_avec_question = document.getElementById("sujets_avec_question")
 var case_sans_question = document.getElementById("sujets_sans_question")
-case_avec_question.onclick = handleInput;
-case_sans_question.onclick = handleInput;
+case_avec_question.addEventListener('click',handleInput);
+case_sans_question.addEventListener('click',handleInput);
 
 function handleInput(e) {
 	var search = input.value;
