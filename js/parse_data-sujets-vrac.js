@@ -19,10 +19,21 @@ Papa.parse("https://raw.githubusercontent.com/eyssette/sujets-philosophie/main/d
 		table_body = "<tbody>";
 		rows.forEach((element) => {
 			recherche = document.getElementById("recherche_dans_le_sujet").value;
-			table_body = table_body + "<tr>";
 			cell = element[0];
-			table_body = table_body + "<td>" + cell + "</td>";
-			table_body = table_body + "</tr>";
+			if (window.location.hash.slice(1)) {
+				search_items = window.location.hash.slice(1).split("+");
+				pattern = "";
+				search_items.forEach((search_item) => {
+					pattern = pattern + "(?=.*" + search_item + ")";
+				});
+				regex = new RegExp(pattern, 'i');
+			}
+
+			if (!(window.location.hash.slice(1)) || (cell.toString().match(regex))) {
+				table_body = table_body + "<tr>";
+				table_body = table_body + "<td>" + cell + "</td>";
+				table_body = table_body + "</tr>";
+			}
 		});
 		table_body = table_body + "</tbody>";
 		content = table_start + table_header + table_body + table_end;
