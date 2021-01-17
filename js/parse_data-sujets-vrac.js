@@ -27,6 +27,7 @@ Papa.parse("https://raw.githubusercontent.com/eyssette/sujets-philosophie/main/d
 					pattern = pattern + "(?=.*" + search_item + ")";
 				});
 				regex = new RegExp(pattern, 'i');
+				document.getElementById("recherche_dans_le_sujet").value = window.location.hash.slice(1);
 			}
 
 			if (!(window.location.hash.slice(1)) || (cell.toString().match(regex))) {
