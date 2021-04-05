@@ -2998,15 +2998,15 @@ Faire quelque chose pour son bien, est-ce toujours faire le bien ?
 Faire régner la justice, est-ce seulement appliquer le droit ?
 Faire régner la justice, est-ce seulement appliquer les lois ?
 Faire son devoir
-Faire son devoir est-ce se mentir ?
 Faire son devoir exclut-il tout plaisir ?
 Faire son devoir sans être heureux, est-ce toute la morale ?
+Faire son devoir, est-ce contraindre sa liberté ?
 Faire son devoir, est-ce de l'héroïsme ?
 Faire son devoir, est-ce être égoïste ?
 Faire son devoir, est-ce là toute la morale ?
 Faire son devoir, est-ce renoncer à sa liberté ?
+Faire son devoir, est-ce se mentir ?
 Faire son devoir, est-ce un choix ?
-Faire son devoir, et-ce là toute la morale ?
 Faire table rase
 Faire une expérience
 Faire usage du langage, est-ce renoncer à la violence ?
@@ -3247,6 +3247,7 @@ Faut-il faire l'éloge du travail ?
 Faut-il faire l'expérience de quelque chose pour le connaître ?
 Faut-il faire régner la justice à tout prix ?
 Faut-il faire table rase du passé ?
+Faut-il faire tout ce qui me plaît pour atteindre le bonheur ?
 Faut-il faire une place à la croyance ?
 Faut-il fixer des limites à l'esprit critique ?
 Faut-il forcer les gens à participer à la vie politique ?
@@ -5913,7 +5914,6 @@ L'irréversibilité
 L'irréversible
 L'irrévocable
 L'ivresse
-L'inconscient est-il psychique ?
 L'obéissance
 L'obéissance à l'autorité
 L'obéissance à l'État est-elle toujours une obligation ?
@@ -8324,6 +8324,7 @@ La raison se reconnaît-elle dans la technique ?
 La raison suffisante
 La raison suffit-elle à connaître le réel ?
 La raison suffit-elle à nous garantir le bonheur ?
+La raison suffit-elle pour connaître la nature ?
 La raison tire-t-elle ses principes de l'expérience ?
 La raison transforme-t-elle le réel ?
 La rareté
@@ -8727,7 +8728,9 @@ La science politique
 La science porte-elle au scepticisme ?
 La science postule le déterminisme ; la conscience semble exiger la liberté. Comment faut-il concilier le célèbre conflit ?
 La science procède-t-elle par rectification ?
+La science produit-elle des certitudes ?
 La science produit-elle des croyances ?
+La science produit-elle des vérités absolument certaines ?
 La science relève-t-elle du seul désir de vérité ?
 La science rend-elle heureux ?
 La science rend-elle l'être humain plus responsable ?
@@ -9028,12 +9031,12 @@ La valeur d'échange
 La valeur d'un esprit se mesure à sa puissance d'attention
 La valeur d'une action se mesure-t-elle à sa réussite ?
 La valeur d'une civilisation est-elle fonction de son développement technique ?
-La valeur d’une civilisation se reconnaît-elle au développement de sa technique ?
 La valeur d'une civilisation se réduit-elle au développement de sa technique ?
 La valeur d'une œuvre
 La valeur d'une œuvre d'art réside-t-elle dans le message qu'elle propose ?
 La valeur d'une théorie scientifique se mesure-t-elle à son efficacité ?
 La valeur d'une théorie se mesure-t-elle à son efficacité pratique ?
+La valeur d’une civilisation se reconnaît-elle au développement de sa technique ?
 La valeur de l'argent
 La valeur de l'art
 La valeur de l'art réside-t-elle dans son inutilité ?
@@ -10150,6 +10153,7 @@ Le langage n'est-il qu'un instrument ?
 Le langage n'est-il qu'un instrument de communication ?
 Le langage n'est-il qu'un moyen de communication ?
 Le langage n'est-il qu'un outil ?
+Le langage n'est-il qu'un simple moyen de communication ?
 Le langage n'est-il qu'une traduction de la pensée ?
 Le langage n'est-il que transmission d'information ?
 Le langage n'est-il que transmission d'informations ?
@@ -11105,6 +11109,7 @@ Le travail est-il le contraire de l'oisiveté ?
 Le travail est-il le lien le plus étroit entre l'être humain et la réalité ?
 Le travail est-il le propre de l'homme ?
 Le travail est-il libérateur ?
+Le travail est-il nécessaire à l'organisation de la société ?
 Le travail est-il nécessaire au bonheur ?
 Le travail est-il nécessaire pour devenir libre ?
 Le travail est-il nécessairement aliénant pour l'être humain ?
@@ -14018,6 +14023,7 @@ Pour vivre en société, faut-il ne plus penser à soi ?
 Pour vivre heureux, vivons cachés
 Pourquoi ?
 Pourquoi a-t-on besoin du temps pour penser ?
+Pourquoi a-t-on conscience du temps qui passe ?
 Pourquoi a-t-on peur de la folie ?
 Pourquoi accordons-nous de la valeur aux objets techniques ?
 Pourquoi aimons-nous la musique ?
@@ -15959,7 +15965,6 @@ Quelle valeur devons accorder à l'expérience ?
 Quelle valeur devons-nous accorder à l'expérience ?
 Quelle valeur devons-nous accorder à l'intuition ?
 Quelle valeur donner à la notion de « corps social » ?
-Quelle valeur donner à la notion de « corps social » ?
 Quelle valeur peut-on accorder à l'expérience ?
 Quelle vérité sur soi faut-il poursuivre ?
 Quelle vérité y-a-t-il dans la perception ?
@@ -17197,7 +17202,7 @@ Une action peut-elle être machinale ?
 Une action vertueuse se reconnaît-elle à sa difficulté ?
 Une activité inutile est-elle pour autant sans valeur ?
 Une activité inutile est-elle sans valeur ?
-Une ativité inutile est-elle pour autant sans valeur ?
+Une bonne gouvernance implique-t-elle un État soucieux de justice ?
 Une cause peut-elle être libre ?
 Une chose peut-elle avoir une histoire ?
 Une communauté politique n'est-elle qu'une communauté d'intérêts ?
@@ -17884,6 +17889,7 @@ Y a-t-il un fondement de la croyance ?
 Y a-t-il un fondement de la diversité des sciences ?
 Y a-t-il un inconscient collectif ?
 Y a-t-il un inconscient psychique ?
+Y a-t-il un inconscient qui me gouverne ?
 Y a-t-il un inconscient social ?
 Y a-t-il un intermédiaire entre savoir et ignorer ?
 Y a-t-il un irrationnel absolu ?
