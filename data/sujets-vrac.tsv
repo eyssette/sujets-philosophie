@@ -385,7 +385,6 @@
 À quoi reconnaît-on une science ?
 À quoi reconnaître qu'une science est une science ?
 À quoi sert l'art ?
-À quoi sert l'État ?
 À quoi sert l'école ?
 À quoi sert l'écriture ?
 À quoi sert l'émotion ?
@@ -831,6 +830,7 @@ Avons-nous des devoirs envers nous-mêmes ?
 Avons-nous des droits sur la nature ?
 Avons-nous des raisons d'espérer ?
 Avons-nous intérêt à la liberté d'autrui ?
+Avons-nous la maîtrise de la technique ?
 Avons-nous le choix d'être libre ?
 Avons-nous le devoir d'être heureux ?
 Avons-nous le devoir de chercher la vérité ?
@@ -1885,6 +1885,7 @@ Devons-nous distinguer deux mondes : le monde commun et le monde de la science ?
 Devons-nous écouter ce que nous dit notre conscience ?
 Devons-nous maîtriser la nature pour dominer nos peurs ?
 Devons-nous nous libérer de nos désirs ?
+Devons-nous nous méfier de la technique ?
 Devons-nous nous méfier de nos certitudes ?
 Devons-nous quelque chose à la nature ?
 Devons-nous renoncer à nos idéaux au nom du réalisme politique ?
@@ -3045,6 +3046,7 @@ Faut-il accorder de l'importance aux mots ?
 Faut-il accorder des droits à la nature ?
 Faut-il accorder l'esprit aux bêtes ?
 Faut-il accorder le moins possible à l'État ?
+Faut-il adapter la loi aux croyances religieuses ?
 Faut-il admettre qu'il n'y a pas de vérité en philosophie ?
 Faut-il admettre toutes les opinions ?
 Faut-il admirer l'artiste ?
@@ -3086,6 +3088,7 @@ Faut-il avoir peur des machines ?
 Faut-il avoir peur du désordre ?
 Faut-il avoir peur du savoir ?
 Faut-il avoir peur du transhumanisme ?
+Faut-il avoir un don pour être artiste ?
 Faut-il avoir vécu un événement pour le comprendre ?
 Faut-il changer le monde ?
 Faut-il changer ses désirs plutôt que l'ordre du monde ?
@@ -3287,6 +3290,7 @@ Faut-il limiter l'exercice de la puissance publique ?
 Faut-il limiter la souveraineté ?
 Faut-il limiter la souveraineté de l'État ?
 Faut-il limiter le pouvoir de l'État ?
+Faut-il limiter les libertés pour augmenter la sécurité ?
 Faut-il lire des romans ?
 Faut-il maîtriser la parole pour avoir le droit de parler ?
 Faut-il méditer sur la mort ?
@@ -4243,10 +4247,11 @@ L'art peut-il manifester la vérité ?
 L'art peut-il n'être pas conceptuel ?
 L'art peut-il ne pas être sacré ?
 L'art peut-il ne viser que l'éphémère ?
-L'art peut-il nou s'éduquer ?
 L'art peut-il nous affranchir de l'ordre du temps ?
 L'art peut-il nous apprendre ce qu'est la vérité ?
+L'art peut-il nous éduquer ?
 L'art peut-il nous rendre meilleurs ?
+L'art peut-il nuire aux spectateurs ?
 L'art peut-il prétendre à la vérité ?
 L'art peut-il quelque chose contre la morale ?
 L'art peut-il quelque chose pour la morale ?
@@ -4858,6 +4863,7 @@ L'être humain et la bête
 L'être humain et la machine
 L'être humain et la nature sont-ils commensurables ?
 L'être humain et le citoyen
+L'être humain fait-il partie de la nature ?
 L'être humain injuste peut-il être heureux ?
 L'être humain introduit-il le désordre dans la nature ?
 L'être humain maîtrise-t-il le développement de la technique ?
@@ -7004,6 +7010,7 @@ La foi est-elle irrationnelle ?
 La foi est-elle rationnelle ?
 La foi et la raison sont-elle inconciliables ?
 La foi religieuse est-elle indispensable pour que la vie ait un sens ?
+La foi religieuse exclut-elle l'usage de la raison ?
 La foi religieuse exclut-elle tout recours à la raison ?
 La foi s'éprouve-t-elle contre toute raison ?
 La folie
@@ -7382,6 +7389,7 @@ La loi est-elle indiscutable ?
 La loi est-elle la condition de la liberté ?
 La loi est-elle la condition de ma liberté ?
 La loi est-elle suffisante pour garantir la justice ?
+La loi est-elle toujours juste ?
 La loi est-elle un obstacle à ma liberté ?
 La loi est-elle une garantie contre l'injustice ?
 La loi et l'ordre
@@ -7674,6 +7682,7 @@ La nature comme artiste
 La nature commet-elle des erreurs ?
 La nature de la perception justifie-t-elle le scepticisme ?
 La nature des choses
+La nature doit-elle être protégée des êtres humains ?
 La nature du bien
 La nature du fait moral
 La nature est-elle artiste ?
@@ -8499,6 +8508,7 @@ La relation fondamentale avec autrui est-elle l'imitation, la sympathie ou le co
 La relativité
 La religion
 La religion a-t-elle besoin d'un dieu ?
+La religion a-t-elle pour fonction d'unir les humains ?
 La religion a-t-elle un avenir ?
 La religion civile
 La religion conduit-elle hors de soi-même ?
@@ -8552,6 +8562,7 @@ La religion nous révèle-t-elle la parole divine ?
 La religion peut-elle être civile ?
 La religion peut-elle être comprise par la raison ?
 La religion peut-elle être naturelle ?
+La religion peut-elle être une pratique simplement individuelle ?
 La religion peut-elle faire lien social ?
 La religion peut-elle imposer sa loi ?
 La religion peut-elle n'être qu'une affaire privée ?
@@ -10709,6 +10720,7 @@ Le progrès technique génère-t-il de nouveaux devoirs moraux ?
 Le progrès technique implique-t-il un progrès de la liberté ?
 Le progrès technique implique-t-il un progrès moral ?
 Le progrès technique ne pose-t-il de problèmes qu'au technicien ?
+Le progrès technique nous libère-t-il du travail ?
 Le progrès technique nous rend-il libres ?
 Le progrès technique peut-il combler toutes les attentes de l'humanité ?
 Le progrès technique peut-il être aliénant ?
@@ -12430,6 +12442,7 @@ Nommer
 Normes et valeurs
 Normes morales et normes vitales
 Nos amies les bêtes
+Nos choix sont-ils libres ?
 Nos consciences sont-elles solitaires ou solidaires ?
 Nos convictions morales sont-elles fondées sur l'expérience ?
 Nos convictions morales sont-elles le simple reflet de notre temps ?
@@ -12472,6 +12485,7 @@ Notre ignorance nous excuse-t-elle ?
 Notre intérêt pour l'art s'explique-t-il par un simple besoin d'évasion ?
 Notre liberté de pensée a-t-elle des limites ?
 Notre liberté de penser a-t-elle des limites ?
+Notre liberté est-elle menacée par la connaissance de ce qui nous détermine ?
 Notre nature nous impose-t-elle des devoirs ?
 Notre nature nous indique-t-elle ce que nous devons faire ?
 Notre passé détermine-t-il notre présent ?
@@ -12963,6 +12977,7 @@ Peut-on connaître l'esprit ?
 Peut-on connaître l'inconscient ?
 Peut-on connaître l'individuel ?
 Peut-on connaître la nature ?
+Peut-on connaître la vérité ?
 Peut-on connaître la vérité par des signes ?
 Peut-on connaître le corps ?
 Peut-on connaître le singulier ?
@@ -16512,6 +16527,7 @@ Si les êtres humains créent des valeurs peuvent-ils encore y croire ?
 Si les machines ne pensent pas, d'où vient qu'il existe des machines à calculer ?
 Si les machines ne pensent pas, d'où vient-il qu'il existe des machines à calculer ?
 Si nos croyances ne reposent sur rien de certain, d'où vient-il alors que nous persévérons dans nos croyances ?
+Si nous connaissions déjà l'avenir, quelle serait notre liberté ?
 Si nous désirons être libres, qu'est-ce qui nous empêche de l'être ?
 Si nous étions moraux, le droit serait-il inutile ?
 Si tous les êtres humains sont égaux, comment justifier l'obéissance ?
@@ -17396,6 +17412,7 @@ Une œuvre d'art s'explique-t-elle par son contexte historique ?
 Une œuvre doit-elle nécessairement être belle ?
 Une œuvre est-elle nécessairement singulière ?
 Une œuvre est-elle toujours de son temps ?
+Une opinion peut-elle être vraie ?
 Une opinion peut-elle vraiment être la mienne ?
 Une parole peut-elle être sans objet ?
 Une parole peut-elle faire événement ?
@@ -18107,6 +18124,7 @@ Y a-t-il une intelligence animale ?
 Y a-t-il une intelligence du corps ?
 Y a-t-il une intentionnalité collective ?
 Y a-t-il une irréversibilité du temps ?
+Y a-t-il une justice en dehors des lois ?
 Y a-t-il une justice en dehors du droit ?
 Y a-t-il une justice naturelle ?
 Y a-t-il une justice sans morale ?
