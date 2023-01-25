@@ -333,7 +333,7 @@
 	}
 
 	table.small {
-		max-width: 800px !important;
+		max-width: 970px !important;
 	}
 
 	.info-search {

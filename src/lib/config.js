@@ -39,7 +39,7 @@ export const markText = true;
 /* Si les données sont déjà triées en ordre ascendant pour une colonne, il faut l'indiquer ici, en notant les numéros des colonnes concernées */
 export let historyColumnsClickDefault = [0];
 
-export const tableCSS = '';
+export const tableCSS = 'small';
 /* export let tableCSS='small' */
 
 /* Pour indiquer des conditions supplémentaires possibles (cases à cocher) avec le format suivant : intitulé de la condition, regex correspondante. Les conditions supplémentaires ne sont possibles que si desactivateRegexDefault = false */
