@@ -12,7 +12,7 @@ export const scoreDisplay = false;
 export const activateFilters = false;
 
 export const textToSearchDefaultSmallScreen = 'liberté+conscience';
-export const textToSearchDefault = '';
+export const textToSearchDefault = 'liberté+conscience';
 
 /* Pour réorganiser les données (notamment pour faire une version différente sur mobile) */
 export const reorganizeData = false;
