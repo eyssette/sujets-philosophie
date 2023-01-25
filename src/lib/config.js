@@ -16,7 +16,7 @@ export const textToSearchDefault = '';
 
 /* Pour réorganiser les données (notamment pour faire une version différente sur mobile) */
 export const reorganizeData = false;
-export const reorganizeDataIfSmallScreen = true;
+export const reorganizeDataIfSmallScreen = false;
 export function reorganizeDataFunction(arrInit) {
 	/* Un exemple qui ne garde que certaines colonnes */
 	return arrInit.map(element => [element[0], element[1], element[4]]);
