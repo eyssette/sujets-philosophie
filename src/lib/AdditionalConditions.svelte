@@ -53,7 +53,7 @@
 			(condition, index) => {
 				if (conditionChecked[index] == true || conditionsHashArray.includes(index + 1)) {
 					conditionChecked[index] = true;
-					if (textToSearch != '2022\t') {
+					if(!textToSearch.includes(condition[1])) {
 						textToSearch = textToSearch + condition[1];
 					}
 				} else {

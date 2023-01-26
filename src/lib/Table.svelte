@@ -38,10 +38,10 @@
 	if (reorganizeData || (reorganizeDataIfSmallScreen && innerWidth <= 800)) {
 		dataArray = reorganizeDataFunction(dataArray);
 	}
-	if (innerWidth <= 600) {
+	if (innerWidth <= 800) {
 		textToSearch = textToSearchDefaultSmallScreen;
 	}
-	if (innerWidth > 600 && automaticSearch == true) {
+	if (innerWidth > 800 && automaticSearch == true) {
 		textToSearch = textToSearchDefault;
 	}
 	if (dataNoHeader == false) {
@@ -201,7 +201,7 @@
 					<th on:click={() => sortColumnOnClick(headersLength)}>Score</th>
 				{/if}
 			</tr>
-			{#if innerWidth > 600 && activateFilters==true && desactivateRegexDefault==false && headersLength>1}
+			{#if innerWidth > 800 && activateFilters==true && desactivateRegexDefault==false && headersLength>1}
 				<tr class="filters">
 					{#each headers as header, i}
 						<td><input type="text" id="filter-{i}" name="filter-{i}" bind:value={filters[i]} placeholder="filtre"></td>
@@ -224,12 +224,12 @@
 					</td>
 				</tr>
 			{:else}
-				{#if innerWidth <=600 && textToSearch==textToSearchDefaultSmallScreen && automaticSearch === true && textToSearchDefaultSmallScreen!=''}
+				{#if innerWidth <=800 && textToSearch==textToSearchDefaultSmallScreen && automaticSearch === true && textToSearchDefaultSmallScreen!=''}
 					<tr>
 						<td colspan="{headersLength}" class="info-search">Sur un petit écran, seule une partie des données s'affiche par défaut. Utilisez le moteur de recherche ci-dessus pour trouver ce qui vous intéresse, ou cliquez sur : <button on:click={()=>textToSearch=''}>Voir toutes les données</button></td>
 					</tr>
 				{/if}
-				{#if innerWidth>600 && automaticSearch === true && textToSearch==textToSearchDefault && textToSearchDefault!=''}
+				{#if innerWidth>800 && automaticSearch === true && textToSearch==textToSearchDefault && textToSearchDefault!=''}
 					<tr>
 						<td colspan="{headersLength}" class="info-search"><strong>Par défaut, seule une partie des données s'affiche.</strong><br />Utilisez le moteur de recherche ci-dessus pour trouver ce qui vous intéresse. <br>Ou cliquez sur : <button on:click={()=>textToSearch=''}>Voir toutes les données</button></td>
 					</tr>
@@ -238,7 +238,7 @@
 					{#each rows as row}
 						<tr>
 							{#each row as cell,i}
-								<td class:small="{innerWidth<=600 ? smallColumnsIfSmallScreen.includes(i+1) : smallColumns.includes(i+1)}">{@html cell}</td>
+								<td class:small="{innerWidth<=800 ? smallColumnsIfSmallScreen.includes(i+1) : smallColumns.includes(i+1)}">{@html cell}</td>
 							{/each}
 						</tr>
 					{/each}

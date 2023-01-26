@@ -49,7 +49,7 @@
 	<input type="text" id="search" name="search" bind:value={inputValue} on:change={searchDatabase}>
 {/if}
 
-<div class="search-explanations"><em>Astuce 1 : </em>ne mettre que le début d'un terme que l'on recherche pour pouvoir trouver tous les mots dérivés (p.ex. : “lib” pour “liberté”, “libération”, “libérer”, “libre”). <em>Astuce 2 :</em> utiliser “terme1+terme2” pour imposer la présence des deux termes. {#if automaticSearch == true}<em>Astuce 3 :</em> on peut utiliser des regex (p.ex. “parler|parole”){/if}
+<div class="search-explanations"><em>Astuce 1 : </em>ne mettre que le début d'un terme que l'on recherche pour pouvoir trouver tous les mots dérivés (p.ex. : “lib” pour “liberté”, “libération”, “libérer”, “libre”). <em>Astuce 2 :</em> utiliser “terme1+terme2” pour imposer la présence des deux termes. {#if automaticSearch == true && desactivateRegexDefault == false}<em>Astuce 3 :</em> on peut utiliser des regex (p.ex. “parler|parole”){/if}
 </div>
 
 {#if useAdditionalConditions==false}
