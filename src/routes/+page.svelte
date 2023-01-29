@@ -1,14 +1,14 @@
 <script>
-	import Papa from 'papaparse';
-	import Table from '../lib/Table.svelte';
-	import Search from '../lib/Search.svelte';
+	import Papa from "papaparse";
+	import Table from "../lib/Table.svelte";
+	import Search from "../lib/Search.svelte";
 	import {
 		title,
 		src,
 		dataNoHeader,
-		contentAfterTable
-	} from '../lib/config.js';
-	let textToSearch = '';
+		contentAfterTable,
+	} from "../lib/config.js";
+	let textToSearch = "";
 	let parsedData = [];
 	let promises = [];
 
@@ -18,15 +18,17 @@
 
 	async function fetchCsv() {
 		const responses = await Promise.all(promises);
-		const data = await Promise.all(responses.map(response => response.text()));
+		const data = await Promise.all(
+			responses.map((response) => response.text())
+		);
 		let headers;
 		for (const csvData of data) {
 			const parse = Papa.parse(csvData, {
-				delimiter: '\t',
+				delimiter: "\t",
 				fastMode: true,
-				comments: '# '
+				comments: "# ",
 			}).data;
-			dataNoHeader ? headers = [] : headers = parse.shift();
+			dataNoHeader ? (headers = []) : (headers = parse.shift());
 			parsedData = [...parsedData, ...parse];
 		}
 		parsedData.unshift(headers);
@@ -39,12 +41,12 @@
 <h1>{title}</h1>
 
 {#await dataParsed}
-	<p><span class="loader"></span></p>
+	<p><span class="loader" /></p>
 	<p>Chargement des données. Merci de patienter.</p>
 {:then dataParsed}
 	<div class="search">
 		<p>{dataParsed.length} sujets dans la base</p>
-		<Search bind:textToSearch/>
+		<Search bind:textToSearch />
 	</div>
 	<Table {dataParsed} bind:textToSearch />
 	<footer class="contentAfterTable">{@html contentAfterTable}</footer>
@@ -54,7 +56,8 @@
 
 <style>
 	:global(body) {
-		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+			"Helvetica Neue", Arial, sans-serif;
 		color: #333;
 	}
 

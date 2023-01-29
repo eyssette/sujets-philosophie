@@ -1,8 +1,6 @@
 <script>
-	import {
-		markText
-	} from './config.js';
-	import Mark from 'mark.js';
+	import { markText } from "./config.js";
+	import Mark from "mark.js";
 	export let dataTable;
 	export let textToSearch;
 	export let sortColumns;
@@ -15,25 +13,31 @@
 		if (markInstance) {
 			markInstance.unmark();
 		}
-		if (text != '') {
+		if (text != "") {
 			markInstance = new Mark(dataTable);
 			try {
 				search_items = text.split("(")[0].split(regexSplit);
 			} catch (e) {
 				console.log("Invalid Regular Expression");
-				search_items = text.split("(")[0].split('+');
+				search_items = text.split("(")[0].split("+");
 			}
 			search_items.forEach((search_item, index) => {
 				search_item = search_item.replaceAll(".*", "");
-				search_item.split('\\t').forEach((item) => {
-					markInstance.mark(item.replaceAll("^", "").replaceAll(".?", "?").replaceAll(".*", "*"), {
-						"element": "span",
-						"className": "match" + (index + 1),
-						"accuracy": "complementary",
-						"separateWordSearch": false,
-						"wildcards": "enabled"
-					});
-				})
+				search_item.split("\\t").forEach((item) => {
+					markInstance.mark(
+						item
+							.replaceAll("^", "")
+							.replaceAll(".?", "?")
+							.replaceAll(".*", "*"),
+						{
+							element: "span",
+							className: "match" + (index + 1),
+							accuracy: "complementary",
+							separateWordSearch: false,
+							wildcards: "enabled",
+						}
+					);
+				});
 			});
 		}
 	}
@@ -55,6 +59,7 @@
 		sortColumns = false;
 	}
 </script>
+
 <style>
 	:global(.match1) {
 		background: hsl(53, 100%, 88%);
